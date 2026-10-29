@@ -6,3 +6,5 @@ a sample project demonstrating git fundamentals
 - track ss
 - organize req
 - rec status
+## Project Status
+this proj 
